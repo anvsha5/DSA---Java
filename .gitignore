@@ -31,3 +31,6 @@ bin/
 
 .idea/
 *.iml
+
+src/basics/Loops.txt
+src/basics/Pattern.txt
