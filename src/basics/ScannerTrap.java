@@ -8,7 +8,7 @@ public class ScannerTrap {
         System.out.println("Enter your age: ");
         int age = sc.nextInt();
 
-//        sc.nextLine();      buffer me \n
+        sc.nextLine();     // buffer me \n kha liya
 
         System.out.println("Enter your name: ");
         String name = sc.nextLine();
